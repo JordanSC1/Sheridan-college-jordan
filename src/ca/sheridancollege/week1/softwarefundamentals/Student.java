@@ -14,6 +14,7 @@ public class Student {
     private String name;
     private int id;
     private int id2; // this change was made on github
+    // second edit, jan 23rd 2020
 
     /**
      * Get the value of name
