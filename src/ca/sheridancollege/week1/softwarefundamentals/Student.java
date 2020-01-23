@@ -10,7 +10,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author sidhu376
  */
 public class Student {
-    
+    private String poop;
     private String name;
     private int id;
 
@@ -32,6 +32,23 @@ public class Student {
         this.name = name;
     }
 
+    public String getPoop() {
+        return poop;
+    }
+
+    public void setPoop(String poop) {
+        this.poop = poop;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    
 }
  
    
