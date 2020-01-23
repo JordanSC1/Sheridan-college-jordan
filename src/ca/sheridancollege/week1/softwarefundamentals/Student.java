@@ -15,6 +15,8 @@ public class Student {
     private int id;
     private int id2; // this change was made on github
     // second edit, AHHHHHHHHHHHHHHHHHHHHH
+    
+    private String status;
     /**
      * Get the value of name
      *
