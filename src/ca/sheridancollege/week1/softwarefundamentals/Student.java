@@ -13,6 +13,7 @@ public class Student {
     private String poop;
     private String name;
     private int id;
+    private int id2;
 
     /**
      * Get the value of name
